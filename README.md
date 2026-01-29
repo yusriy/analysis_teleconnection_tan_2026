@@ -1,5 +1,5 @@
 # Teleconnection between Antarctic Sea Ice Extent and Precipitation in Peninsular Malaysia
-Author: Tan Qiao Rou
+Author: Tan Qiao Rou \n
 Affiliation: Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia.
 
 This is a final year project student research work. 
