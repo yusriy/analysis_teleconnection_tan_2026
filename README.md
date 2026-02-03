@@ -10,9 +10,10 @@ This is a final year project student research work.
 ## Data Sources
 Sea ice extent: https://nsidc.org/sea-ice-today/sea-ice-tools
 
-Precipitation (hourly): https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels?tab=overview 
+ERA5 Precipitation (hourly): https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels?tab=overview 
 
-Geopotential height, zonal wind, meridional wind and vertical velocity (monthly): https://cds.climate.copernicus.eu/datasets/reanalysis-era5-pressure-levels-monthly-means?tab=overview 
+ERA5 Geopotential height, zonal wind, meridional wind and vertical velocity (monthly): https://cds.climate.copernicus.eu/datasets/reanalysis-era5-pressure-levels-monthly-means?tab=overview 
 
-Vertically integrated moisture divergence (monthly): https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels-monthly-means?tab=overview 
+ERA5 Vertically integrated moisture divergence (monthly): https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels-monthly-means?tab=overview 
 
+Note: To download the ERA5 (Copernicus) data, you have create an account first before you can get an API key for bulk downloading of data on R. Click on your profile to generate or see your API key.
